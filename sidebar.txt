@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agv:home|Door43 (agv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agv|d43-agv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agv/archive/master.zip|d43-agv.zip]]
+
+**Recent Changes**
+{{changes>ns = agv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agv|Ethnologue data]]
+
